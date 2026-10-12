@@ -341,7 +341,7 @@ The system architecture is designed to support the addition of the following mod
 
 ## 📝 License
 
-Proprietary - All rights reserved.
+ See [LICENSE](LICENSE).
 
 ## 👨‍💻 Developer
 
